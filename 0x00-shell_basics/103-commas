@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -1a -v | sed -e s/$/,/ -e /$/n/
 ls -amvp
