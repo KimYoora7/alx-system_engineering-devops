@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Best School" > '*\\'"Best School"'\\*$?*****:)'
+echo "Best School" > \\*\x5c\\\'\"\Best\x20School\"\x5c\\\'\\*\x24\\?\x5c\\*\x5c\\*\x5c\\*\x5c\\*\x3a\x29
 
 
